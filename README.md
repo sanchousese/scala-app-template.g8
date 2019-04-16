@@ -13,6 +13,8 @@ sbt new sanchousese/scala-app-template.g8
 
 # To run module:
 
+You have set module in parameters
+
 ```
 sbt <module>/run
 ```

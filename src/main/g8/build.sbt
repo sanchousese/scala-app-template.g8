@@ -1,6 +1,6 @@
 import Dependencies._
 
-lazy val root =
+lazy val $module$ =
   project.in(file("$module$"))
     .settings(
       inThisBuild(List(
